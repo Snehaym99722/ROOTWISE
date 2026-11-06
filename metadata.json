@@ -1,0 +1,6 @@
+{
+  "name": "ROOTWISE AI - Pharmaceutical Quality Event RCA Workspace",
+  "description": "ROOTWISE AI demonstration workspace for pharmaceutical manufacturing quality investigations, source evidence, root cause analysis, and CAPA tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["FASTAPI_BACKEND", "LANGGRAPH_GROQ_RCA"]
+}
